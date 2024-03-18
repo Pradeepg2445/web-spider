@@ -1,2 +1,2 @@
-# web-spider
-It's a simple web page spider that can perform crawling, indexing, and filtering during the search.
+# Web Spider
+It's a simple web page spider that can perform crawling, indexing, and filtering during the search. In the world of the internet, there's a handy tool called a web page spider. It's like a little explorer that can crawl through websites, picking out important stuff and leaving behind what's not needed. This spider is smart—it knows what you're looking for and brings it back to you. Whether you're doing research or just browsing, this spider is there to help you find what you need online. I used python 3 and MySql database. You can store the indexed data in MySql data base.
